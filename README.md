@@ -12,5 +12,8 @@ WebSocket Chat para permitir a los usuarios chatear en tiempo real y jugar al tr
 
 1. Inicia el servidor:
     ```bash
-    npm start
+    node install
+    ```
+    ```bash
+        npm start
     ```
